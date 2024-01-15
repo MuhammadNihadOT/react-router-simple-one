@@ -1,0 +1,15 @@
+.about-conatiner{
+    width: 95%;
+    margin: 15px auto;
+    border-radius: 12px;
+    display: flex;
+    /* height: 100%; */
+    height: calc(100vh - 180px);
+    background-color: #9da99d42;
+    padding: 20px;
+    margin: 0xp 0px;
+    align-items: center;
+}
+.about-paragraph-div{
+    height: 90%;
+}
